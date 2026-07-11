@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo/app-icon.png" width="300" alt="dbvbruler logo" />
+  <img src="app-icon.png" width="300" alt="dbvbruler logo" />
 </p>
 
 <h1 align="center">dbvbruler</h1>
