@@ -20,7 +20,7 @@ A simple calibration process (~10 seconds) will calculate where the rest of the 
 
 Customization options include:
 - Color/Opacity/Number of lines drawn
-- Profiles to save calibration on frequently uesd camera angles (home Volleymetrics cameras)
+- Profiles to save calibration on frequently used camera angles (home Volleymetrics cameras)
 - Changeable keybinds
 - External monitor support
   
