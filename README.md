@@ -12,7 +12,7 @@
 
 ## About
 
-**dbvbruler** is an app that draws reference lines over your match video so you can easily see the 9 court zones directly on top of wherever you're scouting: VolleyStation/VSO, Daatavolley, VolleyMetrics/Hudl, etc.
+**dbvbruler** is an app that draws reference lines over your match video so you can easily see the 9 court zones directly on top of wherever you're scouting: VolleyStation/VSO, Datavolley, VolleyMetrics/Hudl, etc.
 
 A simple calibration process (~10 seconds) will calculate where the rest of the lines should go, making coordinate cleaning *much* easier
 
