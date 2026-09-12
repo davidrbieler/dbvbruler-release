@@ -27,14 +27,16 @@ Customization options include:
 ## Requirements
 
 - **Windows 10 or 11**
-
+- **macOS 11 or greater**
 ---
 
 ## Download or Install
 
 1. Go to the **[Releases page](https://github.com/davidrbieler/dbvbruler/releases)**.
 2. Under the newest release, click **Assets**
-3. Download the installer: **`dbvbruler_x.x.x_x64-setup.exe`** or the standalone exe: **`dbvbruler.exe`**
+3. Download the installer:
+    - **Windows: `dbvbruler_x.x.x_x64-setup.exe`** or the standalone exe: **`dbvbruler.exe`**
+    - **Mac: `dbvbruler_0.4.0_universal.dmg`**
 4. Double-click the downloaded file to install or run it
 
 > **"Windows protected your PC"?**
